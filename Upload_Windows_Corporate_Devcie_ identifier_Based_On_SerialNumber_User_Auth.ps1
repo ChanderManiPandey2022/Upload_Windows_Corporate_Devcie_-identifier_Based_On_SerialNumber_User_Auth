@@ -1,4 +1,19 @@
-﻿# Set the execution policy to bypass restrictions for the current session
+#Upload Windows Corporate Devcie identifier based on the serial number Using PowerShell>
+#DESCRIPTION
+ <# Upload Windows Corporate Devcie identifier based on the serial number Using PowerShell>
+ #INPUTS
+ < User Imput Needed>
+#NOTES
+  Version:        1.0
+  Author:         Chander Mani Pandey
+  Creation Date:  26 July 2024
+  Find Author on 
+  Youtube:-        https://www.youtube.com/@chandermanipandey8763
+  Twitter:-        https://twitter.com/Mani_CMPandey
+  LinkedIn:-       https://www.linkedin.com/in/chandermanipandey
+  
+ #>
+ # Set the execution policy to bypass restrictions for the current session
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
 
 #=============================User Input Section================================
